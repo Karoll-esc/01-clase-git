@@ -9,4 +9,11 @@ Git es un sistema de control de versiones que permite llevar un historial de los
 3. Verificar la instalación en la terminal con:
 ```bash
 git --version
+```
+## Creación de cuenta en GitHub
+1. Ingresar a [https://github.com/](https://github.com/)
+2. Crear una cuenta con correo electrpnico y contraseña.
+3. Configurar perfil basico (foto, usuario, descripción)
+
+
 
