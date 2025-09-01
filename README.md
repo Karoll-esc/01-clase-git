@@ -51,3 +51,15 @@ Ejemplo:
 ```bash
 git commit -m "add README file"
 ```
+
+## Conectar repositorio local con GitHub
+1. crear un repsositorio nuevo en GitHub
+2. Copiar la URL.
+3. En la terminal ejecutar:
+```bash
+git remote add origin URL_DEL_REPO
+```
+4. Cambiar el nombre de la rama principal a `main` (por defecto puede llamase `master`):
+```bash
+git branch -M main
+```
