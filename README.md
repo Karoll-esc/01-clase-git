@@ -63,3 +63,9 @@ git remote add origin URL_DEL_REPO
 ```bash
 git branch -M main
 ```
+
+## Subir archivos a GitHub
+Para enviar los commits al repositorio remoto usar:
+```bash
+git push origing main
+```
