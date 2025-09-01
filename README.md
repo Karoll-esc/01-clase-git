@@ -30,3 +30,14 @@ git init
 
 Este comando crea la carpeta oculta .git que contiene tod la informacion del repositorio.
 
+## Staging area y git add
+Para preparar un archivo y pasarlo al área de *staging* usar:
+```bash
+git add nombre_archivo
+```
+
+O para agregar todos los archivos modificados o nuevos de una sola vez, usar:
+
+```bash
+git add .
+```
