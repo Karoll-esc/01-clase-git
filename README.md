@@ -41,3 +41,13 @@ O para agregar todos los archivos modificados o nuevos de una sola vez, usar:
 ```bash
 git add .
 ```
+
+## Crear un commit
+Un commit guarda los cambios en el repositorio con un mensaje descriptivo:
+```bash
+git commit -m "mensaje del commit"
+```
+Ejemplo:
+```bash
+git commit -m "add README file"
+```
