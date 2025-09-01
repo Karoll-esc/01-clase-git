@@ -15,5 +15,10 @@ git --version
 2. Crear una cuenta con correo electrpnico y contraseña.
 3. Configurar perfil basico (foto, usuario, descripción)
 
-
+## Creación carpeta de Proyecto
+1. Crear una carpeta local para el proyecto.
+2. Acceder a la carpeta desde la terminal con el comando **cd**.
+```bash
+cd C:\ruta\de_la_carpeta
+```
 
