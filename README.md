@@ -22,3 +22,11 @@ git --version
 cd C:\ruta\de_la_carpeta
 ```
 
+## Inicializar repositorio
+En la terminal, dentro de la carpeta del proyecto, ejecuta el siguiente comando:
+```bash
+git init
+```
+
+Este comando crea la carpeta oculta .git que contiene tod la informacion del repositorio.
+
