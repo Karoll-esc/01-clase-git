@@ -69,3 +69,8 @@ Para enviar los commits al repositorio remoto usar:
 ```bash
 git push origing main
 ```
+
+# Git Avanzado y Branching
+
+## Creación de ramas (feature, hotfix, develop)
+![branch_creation](assets\pic_create_branches.png "create branches")
