@@ -73,4 +73,5 @@ git push origing main
 # Git Avanzado y Branching
 
 ## Creación de ramas (feature, hotfix, develop)
-![branch_creation](assets\pic_create_branches.png "create branches")
+
+![branches creation](https://github.com/Karoll-esc/01-clase-git/blob/main/assets/pic_create_branches.png)
