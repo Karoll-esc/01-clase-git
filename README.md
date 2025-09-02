@@ -69,3 +69,7 @@ Para enviar los commits al repositorio remoto usar:
 ```bash
 git push origing main
 ```
+
+## Haciendo cambios en Feature branch.
+Este cambio simula la implementación de una nueva funcionalidad en el proyecto.
+Ex: Agregar Login Form
