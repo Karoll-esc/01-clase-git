@@ -69,3 +69,9 @@ Para enviar los commits al repositorio remoto usar:
 ```bash
 git push origing main
 ```
+
+## Desarrollar funcionalidades en paralelo
+
+1. Se hicieron cambios en feature: Simulando la implementación de una nueva funcionalidad.
+2. Se hicieron cambios en hotfix: se arreglo rendering de imagen en README.md
+3. Se hicieron cambios en develop: se documento las diferentes cambios en las tres ramas.
