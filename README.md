@@ -80,3 +80,5 @@ Ex: Agregar Login Form
 2. Se hicieron cambios en hotfix: se arreglo rendering de imagen en README.md
 3. Se hicieron cambios en develop: se documento las diferentes cambios en las tres ramas.
 
+## Git stash
+Esto es un cambio temporal, se guardaran los cambios temporalmente en el working area y cambiaremos a la rama main para hacer merge con hotfix.
