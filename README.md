@@ -70,8 +70,23 @@ Para enviar los commits al repositorio remoto usar:
 git push origing main
 ```
 
+<<<<<<< HEAD
 # Git Avanzado y Branching
 
 ## Creación de ramas (feature, hotfix, develop)
 
 ![branches creation](https://github.com/Karoll-esc/01-clase-git/blob/main/assets/pic_create_branches.png)
+=======
+## Haciendo cambios en Feature branch.
+Este cambio simula la implementación de una nueva funcionalidad en el proyecto.
+Ex: Agregar Login Form
+
+## Desarrollar funcionalidades en paralelo
+
+1. Se hicieron cambios en feature: Simulando la implementación de una nueva funcionalidad.
+2. Se hicieron cambios en hotfix: se arreglo rendering de imagen en README.md
+3. Se hicieron cambios en develop: se documento las diferentes cambios en las tres ramas.
+
+## Git stash
+Esto es un cambio temporal, se guardaran los cambios temporalmente en el working area y cambiaremos a la rama main para hacer merge con hotfix.
+>>>>>>> develop
